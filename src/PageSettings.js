@@ -30,7 +30,7 @@ export const DataList = (props) => (
             <TextField source="setting_name" />
             <TextField source="setting_value"  />
             <EditButton />
-            <DeleteButton />
+            <DeleteButton undoable={false} />
         </Datagrid>
     </List>
 );

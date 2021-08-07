@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My First React Project from [Create React App](https://github.com/facebook/create-react-app).
+
+For Demonstration with Quick and Easy Administrator Dashboard 
+[React-Admin](https://marmelab.com/react-admin).
+
+![screenshot](screenshot.png)
 
 ## Available Scripts
 

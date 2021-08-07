@@ -43,7 +43,7 @@ export const DataList = (props) => (
             <TextField source="user_number" />
             <TextField source="user_email" />
             <EditButton />
-            <DeleteButton />
+            <DeleteButton undoable={false} />
         </Datagrid>
     </List>
 );
